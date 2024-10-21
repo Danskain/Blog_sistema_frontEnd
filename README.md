@@ -3,6 +3,7 @@
 1. primero bajar el repositorio (https://github.com/Danskain/Blog_sistema_frontEnd)
 2. `npm install` para bajar todas las dependencias
 3. `ng serve` para correrlo en modo desarrollo
+4. en el archivo `environments/environment.ts` cambiar la ruta donde esta instalado el backend por defecto sale `'http://localhost/PHP/Blog_Sistema/index.php/'`
 
 This project was generated with [Angular CLI] version 14.1.1.
 
