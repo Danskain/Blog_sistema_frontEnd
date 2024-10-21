@@ -1,6 +1,10 @@
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
+1. primero bajar el repositorio (https://github.com/Danskain/Blog_sistema_frontEnd)
+2. `npm install` para bajar todas las dependencias
+3. `ng serve` para correrlo en modo desarrollo
+
+This project was generated with [Angular CLI] version 14.1.1.
 
 ## Development server
 
